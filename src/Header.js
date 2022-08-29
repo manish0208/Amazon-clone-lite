@@ -31,8 +31,8 @@ const Header = () => {
                 <span className='nav_item_lineOne'>Your</span>
                 <span className='nav_item_lineTwo'>Shop</span>
               </div>
-              <div className='nav_item'>
-                <ShoppingBasketIcon className="nav_itemBasket" />
+              <div className="nav_itemBasket">
+                <ShoppingBasketIcon  />
                 <span className='nav_basketCount'>0</span>
               </div>
             </div>
