@@ -1,0 +1,15 @@
+.signupPage{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 30%;
+    left: 20%;
+}
+
+.signupForm{
+    display: flex;
+    flex-direction: column;
+    
+}
